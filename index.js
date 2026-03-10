@@ -14,7 +14,7 @@
 //  GIT add filepath.  -single file
 // GIT commit - m 'msg'
 
-git config --global user name'Your name'
+// git config --global user name'Your name'
 
-git config --user.email
-                   'Your email'
+// git config --user.email
+//                    'Your email'
