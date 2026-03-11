@@ -18,3 +18,6 @@
 
 // git config --user.email
 //                    'Your email'
+
+    Branching in GIT 
+    
