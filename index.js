@@ -15,9 +15,11 @@
 // GIT commit - m 'msg'
 
 // git config --global user name'Your name'
-
-// git config --user.email
+// git config -- global user.email "Your email"
 //                    'Your email'
 
-    Branching in GIT 
-    
+    // Branching in GIT (Another -day)   -11 march
+
+    // To check existing branches git branch
+    // to create a new branch git branch 'branchname'
+    // To switch to  branch git checkout 'branchname'
