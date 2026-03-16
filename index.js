@@ -19,5 +19,23 @@
 // git config --user.email
 //                    'Your email'
 
-    Branching in GIT 
-    
+    //  Branching in GIT     Pollute commit history
+    //        HEAD
+    //  O O O O   -MAIN //               
+    //            HEAD
+    //        O O O -SECONDARY BRANCH
+
+
+
+    // git branch
+    // git branch'branchname'
+    // git checkout 'branchname'
+
+    git branch 
+    git branch'Section_B'
+    GIT CHECKOUT'SECTION_B'
+
+
+    GIT add .
+    git commit -m 'msg'
+    git push
