@@ -31,11 +31,22 @@
     // git branch'branchname'
     // git checkout 'branchname'
 
-    git branch 
-    git branch'Section_B'
-    GIT CHECKOUT'SECTION_B'
+    // git branch 
+    // git branch'Section_B'
+    // GIT CHECKOUT'SECTION_B'
 
 
-    GIT add .
-    git commit -m 'msg'
-    git push
+    // GIT add .
+    // git commit -m 'msg'
+    // git push
+
+
+
+
+    // git checkout 'main'
+    // git merge origin /secondary branch name 
+    // git push
+
+
+
+//   - - -CREATE A NEW BRANCH LEARNING GIT ,CREATE A HEADER FILE IN NEW BRANCH AND FINALLY MERGE THE 2 BRANCHES TOGETHER
